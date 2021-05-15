@@ -23,7 +23,7 @@ For more information see [overview of Dapr in self-hosted mode]({{< ref self-hos
 
 * Sidecar (data plane)
 * Sentry (optional, control plane)
-* Placement (optional, control planee)
+* Placement (optional, control plane)
 * Operator (control plane)
 * Sidecar Injector (control plane)
 
